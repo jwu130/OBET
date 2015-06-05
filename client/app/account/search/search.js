@@ -7,7 +7,7 @@
  * # SearchCtrl
  * Controller of the mimelyApp
  */
-angular.module('mimelyApp')
+angular.module('obetsiteApp')
   .controller('SearchCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
